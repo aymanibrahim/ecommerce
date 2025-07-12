@@ -2,7 +2,7 @@
 
 ![E-commerce Platform](01_oltp/images/ecommerce.png)
 
-A comprehensive data engineering project simulating an e-commerce analytics platform with end-to-end integration of OLTP, NoSQL, data warehousing, ETL pipelines, big data analytics, and BI dashboards.
+A data engineering project simulating an e-commerce analytics platform with end-to-end integration of OLTP, NoSQL, data warehousing, ETL pipelines, big data analytics, and BI dashboards.
 
 
 
