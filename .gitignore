@@ -1,0 +1,46 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+data/
+*.csv
+*.json
+*.xlsx
+*.parquet
+*.feather
+*.hdf5
+*.pkl
+
+# Ignore model files
+models/
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# Ignore logs and outputs
+logs/
+*.log
+
+# Ignore environment and dependency files
+.env
+env.yml
+requirements.txt
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other temporary files
+*.bak
+*.swp
+
